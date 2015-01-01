@@ -35,7 +35,7 @@ public class Main extends JPanel {
       frame.addWindowListener(new WindowAdapter() {
          public void windowClosing(WindowEvent e) {
             System.exit(0);
-         }
+         }  
       });
       Container contentPane = frame.getContentPane();
       contentPane.add(new Main());
