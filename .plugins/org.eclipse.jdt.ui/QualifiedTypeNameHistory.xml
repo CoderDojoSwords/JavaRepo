@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.util.Date"/>
+<fullyQualifiedTypeName name="java.awt.Graphics2D"/>
+<fullyQualifiedTypeName name="java.awt.RenderingHints"/>
+<fullyQualifiedTypeName name="java.awt.Polygon"/>
+<fullyQualifiedTypeName name="java.awt.Container"/>
+<fullyQualifiedTypeName name="java.awt.FontMetrics"/>
+<fullyQualifiedTypeName name="java.awt.Font"/>
+<fullyQualifiedTypeName name="GraphicalElementsPackage.Square"/>
+<fullyQualifiedTypeName name="LifeFormsPackage.Organism"/>
+<fullyQualifiedTypeName name="GraphicalElementsPackage.Shape"/>
+<fullyQualifiedTypeName name="GraphicalElementsPackage.GraphicalPolygon"/>
+<fullyQualifiedTypeName name="java.awt.Color"/>
+<fullyQualifiedTypeName name="GraphicalElementsPackage.Triangle"/>
+<fullyQualifiedTypeName name="java.awt.Graphics"/>
+<fullyQualifiedTypeName name="java.util.Iterator"/>
+<fullyQualifiedTypeName name="GraphicalElementsPackage.GraphicalShape"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="GraphicalElementsPackage.GraphicalCircle"/>
+</qualifiedTypeNameHistroy>
