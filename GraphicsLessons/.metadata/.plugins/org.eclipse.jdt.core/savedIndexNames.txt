@@ -1,7 +1,0 @@
-INDEX VERSION 1.127+C:\Users\odonnelf\git\JavaRepo\GraphicsLessons\.metadata\.plugins\org.eclipse.jdt.core
-2938450107.index
-1309883330.index
-1995173708.index
-3388671042.index
-4155206848.index
-1498219845.index
