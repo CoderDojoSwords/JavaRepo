@@ -48,7 +48,7 @@ public class Main extends JPanel {
       square2.MoveTo(800, 800); 
       square2.MoveTo(1000, 1000);  
 
-     
+      // This is frustrating
       for (int i = 0; i < 20; i++)
       {
     	  try {
